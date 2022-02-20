@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+vtr_csv_json_converter/__init__.py
+vtr_csv_json_converter/converter.py
+vtr_csv_json_converter.egg-info/PKG-INFO
+vtr_csv_json_converter.egg-info/SOURCES.txt
+vtr_csv_json_converter.egg-info/dependency_links.txt
+vtr_csv_json_converter.egg-info/entry_points.txt
+vtr_csv_json_converter.egg-info/not-zip-safe
+vtr_csv_json_converter.egg-info/requires.txt
+vtr_csv_json_converter.egg-info/top_level.txt

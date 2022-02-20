@@ -1,0 +1,3 @@
+[console_scripts]
+csv_converter = vtr_csv_json_converter.converter:converter
+
